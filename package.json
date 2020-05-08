@@ -15,6 +15,7 @@
   },
   "dependencies": {
     "redis": "^3.0.2",
-    "lodash": "^4.17.12"
+    "lodash": "^4.17.12",
+    "typescript": "^3.8.3"
   }
 }
